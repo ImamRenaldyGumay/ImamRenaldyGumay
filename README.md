@@ -35,7 +35,7 @@ Jika Anda menemukan proyek-proyek atau konten saya di GitHub ini bermanfaat, per
 
 ## Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=imamrenaldygumay&show_icons=true)
 
 Terima kasih telah mengunjungi profil GitHub saya. Mari berkolaborasi dan berinovasi bersama!
 
