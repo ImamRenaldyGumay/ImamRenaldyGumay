@@ -12,13 +12,18 @@
 
 Saya adalah Frontend Engineer. Saya memiliki minat khusus dalam React JS. Saya telah bekerja di beberapa proyek yang berhubungan dengan [Sebutkan beberapa proyek atau teknologi yang relevan].
 
-## Keahlian
+<h2>  💻 Tech Stack: </h2>
 
-Beberapa dari keahlian saya termasuk:
-
-- [Sebutkan bahasa pemrograman yang Anda kuasai]
-- [Sebutkan alat atau kerangka kerja yang Anda kuasai]
-- [Sebutkan keterampilan teknis lainnya]
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 	
+![Daisyui](https://img.shields.io/badge/Daisyui-purple?style=flat&logo=daisyui&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ## Portofolio
 
