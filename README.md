@@ -4,6 +4,9 @@
 
 <p align="center"> <a href="https://github.com/imamrenaldygumay"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dimamrenaldygumay&longCache=true"/></a> <a href="https://github.com/imamrenaldygumay"><img src="https://komarev.com/ghpvc/?username=imamrenaldygumay&label=Visitors" alt="imamrenaldygumay" /></a> </p>
 
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/-ImamRenaldyGumay-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mimamrenaldygumay/)](www.linkedin.com/in/mimamrenaldygumay/)
 
 ## Tentang Saya
 
