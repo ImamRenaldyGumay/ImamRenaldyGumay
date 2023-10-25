@@ -1,6 +1,6 @@
-# Nama Anda
-
-Selamat datang di profil GitHub saya! Saya M Imam Renaldy Gumay, seorang Frontend Engineer, dan saya sangat antusias tentang dunia teknologi.
+<h3 align="center">
+👋 Hi there! I'm Faisal Halim  <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18" />  
+</h3>
 
 ## Tentang Saya
 
