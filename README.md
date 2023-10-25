@@ -8,9 +8,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ImamRenaldyGumay-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mimamrenaldygumay/)](www.linkedin.com/in/mimamrenaldygumay/)
 
-## Tentang Saya
+<h2> 💫 About Me: </h2>
 
-Saya adalah Frontend Engineer. Saya memiliki minat khusus dalam React JS. Saya telah bekerja di beberapa proyek yang berhubungan dengan [Sebutkan beberapa proyek atau teknologi yang relevan].
+🔭 A passionate frontend developer from Tangerang Selatan<br>🌱 I’m currently learning **Typescript and Next.js** <br>⚡ my portofolio are available at [Here](https://github.com/ImamRenaldyGumay?tab=repositories)
 
 <h2>  💻 Tech Stack: </h2>
 
