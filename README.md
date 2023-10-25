@@ -10,7 +10,7 @@
 
 <h2> 💫 About Me: </h2>
 
-🔭 A passionate frontend developer from Tangerang Selatan<br>🌱 I’m currently learning **Typescript and Next.js** <br>⚡ my portofolio are available at [Here](https://github.com/ImamRenaldyGumay?tab=repositories)
+🔭 A passionate frontend developer from Tangerang Selatan<br>🌱 I’m currently learning **Typescript and React.JS** <br>⚡ my portofolio are available at [Here](https://github.com/ImamRenaldyGumay?tab=repositories)
 
 <h2>  💻 Tech Stack: </h2>
 
