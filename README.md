@@ -25,29 +25,17 @@
 ![Daisyui](https://img.shields.io/badge/Daisyui-purple?style=flat&logo=daisyui&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-## Portofolio
+## Contact me
 
-Anda dapat melihat beberapa proyek terbaik saya di repositori GitHub ini:
-
-- [Proyek 1](link-repo-1)
-- [Proyek 2](link-repo-2)
-- [Proyek 3](link-repo-3)
-
-## Hubungi Saya
-
-Saya senang berinteraksi dengan komunitas pengembang. Jika Anda memiliki pertanyaan, umpan balik, atau ingin berkolaborasi, jangan ragu untuk menghubungi saya melalui:
+I enjoy interacting with the developer community. If you have any questions, or feedback, or would like to collaborate, feel free to contact me via:
 
 - Email: imam.renaldy26@gmail.com
 - LinkedIn: www.linkedin.com/in/mimamrenaldygumay
-
-## Dukungan
-
-Jika Anda menemukan proyek-proyek atau konten saya di GitHub ini bermanfaat, pertimbangkan untuk memberikan dukungan dengan mengikuti atau memberi bintang (⭐) pada repositori yang Anda suka. Terima kasih atas dukungan Anda!
 
 ## Statistik GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=imamrenaldygumay&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imamrenaldygumay)
 
-Terima kasih telah mengunjungi profil GitHub saya. Mari berkolaborasi dan berinovasi bersama!
+Thank you for visiting my GitHub profile. Let's collaborate and innovate together!
 
